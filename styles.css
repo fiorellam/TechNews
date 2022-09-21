@@ -28,4 +28,28 @@ ul{
     font-size: 17px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 20px 0;
+}
+
+.nav-brand{
+    width: 50px;
+}
+/* Nav left */
+.nav-main ul {
+    display: flex;
+}
+.nav-main ul li{
+    padding: 10px;
+}
+.nav-main ul li{
+    padding: 10px;
+}
+.nav-main ul li a:hover{
+    border-bottom: 2px solid #ffffff;
+}
+.nav-main ul.nav-menu{
+    flex: 1;
+    margin-left: 20px;
 }
